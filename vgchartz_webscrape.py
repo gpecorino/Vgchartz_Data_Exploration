@@ -128,4 +128,4 @@ cols = {
 df = pd.DataFrame(cols)
 
 #store dataframe in csv file
-df.to_csv(r'C:\Users\Monado\Documents\Data_Portfolio\Projects\video_game_full.csv', index = False)
+df.to_csv('video_game_full.csv', index = False)
