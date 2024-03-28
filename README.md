@@ -30,6 +30,7 @@ This dataset was pulled from [VGChartz.com](https://www.vgchartz.com/games/games
 + Python: Primary language used for webscrapping and data processing/analysis
 + Pandas: Used for data manipulation and analysis
 + Matplotlib: Used for data visualization
++ BeautifulSoup: Used for reading html for webscrapping
 
 **Areas for Improvement**
 
