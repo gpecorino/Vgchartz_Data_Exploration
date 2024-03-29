@@ -25,10 +25,7 @@ This dataset was pulled from [VGChartz.com](https://www.vgchartz.com/games/games
 
 **Conclusions**
 
-Genres with faster paced game play tend to be more popular and sell well.
-Nintendo out performs all other publishers in sales.
-Games from well established franchises make up some of the best performing games in sales and have prolonged success.
-Sony playstation platforms have the best video games sales on average when compared to its competitors
+In the dynamic landscape of the video game industry, certain trends emerge that shape consumer preferences and drive sales. Games characterized by faster-paced gameplay often garner more attention and enjoy higher sales figures. This is evident in the market dominance of genres such as sports, shooters, action, platformer, and racing. Moreover, Nintendo stands out as a powerhouse in the industry, consistently outperforming all other publishers in sales. The enduring success of Nintendo's titles underscores the importance of brand recognition and consumer loyalty. Similarly, games from well-established franchises exhibit remarkable sales performance and longevity, showcasing the influence of brand identity on consumer behavior. Notably, Sony PlayStation platforms emerge as frontrunners in terms of overall video game sales, highlighting their strong market presence and appeal among gamers compared to competitors.
 
 
 **Technologies**
