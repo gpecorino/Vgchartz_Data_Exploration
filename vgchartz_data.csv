@@ -1037,7 +1037,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 1036,Kingdom Hearts: Chain of Memories,Square Enix,Jupiter Corporation,GBA,2004,Role-Playing,1.26,0.18,0.35,0.06,1.85
 1037,Pinball,Nintendo,Nintendo,NES,1985,Misc,0.8,0.19,0.83,0.03,1.85
 1038,Phineas and Ferb,Disney Interactive Studios,Disney Interactive Studios,DS,2009,Action,1.33,0.37,,0.15,1.85
-1039,Gran Turismo Concept 2001 Tokyo,Unknown,Polyphony Digital,PS2,N/A,Racing,,1.1,0.42,0.33,1.84
+1039,Gran Turismo Concept 2001 Tokyo,Sony Computer Entertainment,Polyphony Digital,PS2,N/A,Racing,,1.1,0.42,0.33,1.84
 1040,Professor Layton and the Mask of Miracle,Nintendo,Level 5,3DS,2012,Puzzle,0.32,1.05,0.36,0.11,1.84
 1041,Forza Horizon 4,Microsoft Studios,Playground Games,XOne,2018,Racing,0.74,0.95,0.01,0.15,1.84
 1042,NCAA Football 06,EA Sports,EA Tiburon,PS2,2005,Sports,1.53,0.05,,0.25,1.84
@@ -2285,7 +2285,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 2284,Injustice: Gods Among Us Ultimate Edition,Warner Bros. Interactive Entertainment,NetherRealm Studios,PS4,2013,Fighting,0.46,0.35,,0.17,0.98
 2285,Fallout 3,Bethesda Softworks,Bethesda Game Studios,PC,2008,Role-Playing,0.02,0.88,,0.07,0.98
 2286,The Witcher 2: Assassins of Kings,Atari,CD Projekt Red Studio,PC,2011,Role-Playing,0.27,0.56,,0.14,0.98
-2287,Dragon Quest X,Unknown,Square Enix,Wii,N/A,MMO,,,0.97,,0.97
+2287,Dragon Quest X,Square Enix,Square Enix,Wii,N/A,MMO,,,0.97,,0.97
 2288,Madden NFL 08,EA Sports,EA Tiburon,PS3,2007,Sports,0.89,0.01,,0.08,0.97
 2289,NCAA Football 06,EA Sports,EA Tiburon,XB,2005,Sports,0.73,0.21,,0.03,0.97
 2290,Tamagotchi Connection: Corner Shop 2,Namco Bandai,NanaOn-Sha,DS,2006,Simulation,0.09,0.01,0.86,0.01,0.97
@@ -2729,7 +2729,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 2728,Jikkyou Powerful Pro Yakyuu '99 Kaimakuban,Konami,Diamond Head,PS,1999,Sports,,,0.76,0.05,0.81
 2729,Valkyrie Profile,Enix,tri-Ace,PS,2000,Role-Playing,0.07,0.05,0.63,0.05,0.81
 2730,Shaun White Snowboarding,Ubisoft,Ubisoft Montreal,X360,2008,Sports,0.48,0.25,0.0,0.08,0.81
-2731,Final Fantasy Type-0,Unknown,Square Enix,PSP,2020,Role-Playing,,,0.81,,0.81
+2731,Final Fantasy Type-0,Square Enix,Square Enix,PSP,2020,Role-Playing,,,0.81,,0.81
 2732,Madden NFL 16,EA Sports,EA Tiburon,PS3,2015,Sports,0.6,0.07,,0.15,0.81
 2733,Army Men: Sarge's Heroes,3DO,3DO,N64,1999,Shooter,0.68,0.12,,0.01,0.81
 2734,Mega Man,Capcom,Capcom,NES,1987,Platform,0.45,0.08,0.27,0.01,0.81
@@ -3123,7 +3123,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 3122,SplashDown,Atari,Rainbow Studios,PS2,2001,Racing,0.34,0.27,,0.09,0.7
 3123,NCAA Football 98,EA Sports,EA Tiburon,PS,1997,Sports,0.39,0.27,,0.05,0.7
 3124,Mario & Sonic at the Rio 2016 Olympic Games,Nintendo,Arzest,3DS,2016,Sports,0.1,0.29,0.28,0.03,0.7
-3125,RIFT,Unknown,Trion Worlds,PC,2011,Role-Playing,0.47,0.16,,0.08,0.7
+3125,RIFT,Gamigo US,Trion Worlds,PC,2011,Role-Playing,0.47,0.16,,0.08,0.7
 3126,Need for Speed Rivals,Electronic Arts,Ghost Games,XOne,2013,Racing,0.45,0.19,,0.07,0.7
 3127,Jade Empire,Microsoft Game Studios,BioWare Corp.,XB,2005,Role-Playing,0.48,0.19,,0.03,0.7
 3128,Chocobo's Dungeon 2,Square EA,SquareSoft,PS,1999,Role-Playing,0.04,0.03,0.58,0.05,0.7
@@ -3291,7 +3291,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 3290,Ratatouille,THQ,Locomotive Games,PSP,2007,Platform,0.22,0.28,,0.16,0.66
 3291,Madagascar,Activision,Toys for Bob,GC,2005,Platform,0.52,0.13,,0.02,0.66
 3292,NHL 10,EA Sports,EA Canada,X360,2009,Sports,0.51,0.1,,0.06,0.66
-3293,Dragon Quest Monsters: Caravan Heart,Unknown,TOSE,GBA,2020,Role-Playing,,,0.64,0.02,0.66
+3293,Dragon Quest Monsters: Caravan Heart,Enix,TOSE,GBA,2003,Role-Playing,,,0.64,0.02,0.66
 3294,Strawberry Shortcake: Summertime Adventure,Majesco,Gorilla Systems,GBA,2004,Adventure,0.47,0.18,,0.01,0.66
 3295,Street Fighter Anniversary Collection,Capcom,Capcom,PS2,2004,Fighting,0.32,0.25,,0.08,0.66
 3296,Peppa Pig: Fun and Games,Ubisoft,Ubisoft,DS,2010,Misc,,0.57,,0.09,0.66
@@ -4981,7 +4981,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 4980,Vanquish,Sega,PlatinumGames,X360,2010,Shooter,0.19,0.16,0.03,0.04,0.42
 4981,Castlevania: The Dracula X Chronicles,Konami,Konami,PSP,2007,Platform,0.22,0.09,0.04,0.07,0.42
 4982,Double Pack: Finding Nemo / The Incredibles,THQ,Traveller's Tales / Heavy Iron Studios,XB,2006,Action,0.31,0.09,,0.01,0.42
-4983,TERA,Unknown,En Masse,PC,1970,Role-Playing,0.25,0.13,,0.04,0.42
+4983,TERA,Unknown,En Masse,PC,2011,Role-Playing,0.25,0.13,,0.04,0.42
 4984,Lord of the Rings: The Third Age,Electronic Arts,EA Redwood Shores,XB,2004,Role-Playing,0.31,0.09,,0.01,0.42
 4985,Zack & Wiki: Quest for Barbaros' Treasure,Capcom,Capcom,Wii,2007,Adventure,0.18,0.16,0.03,0.04,0.42
 4986,Pirates of the Caribbean: At World's End,Disney Interactive Studios,Eurocom Entertainment Software,PS2,2007,Action,0.2,0.16,,0.05,0.42
@@ -7376,7 +7376,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 7375,Shadow Hearts: Covenant,Midway Games,Nautilus,PS2,2004,Role-Playing,0.12,0.09,,0.03,0.24
 7376,Bakugan: Battle Brawlers,Activision,MTO,PS3,2009,Action,0.19,0.03,,0.02,0.24
 7377,Classic NES Series: The Legend of Zelda,Nintendo,Nintendo EAD,GBA,2004,Adventure,,,0.24,,0.24
-7378,Danganronpa: Trigger Happy Havoc,Unknown,Spike,PSP,1970,Adventure,,,0.24,,0.24
+7378,Danganronpa: Trigger Happy Havoc,Unknown,Spike,PSP,2010,Adventure,,,0.24,,0.24
 7379,PDC World Championship Darts 2008,O-Games,Mere Mortals,Wii,2009,Sports,0.02,0.21,,0.01,0.24
 7380,theHunter: Call of the Wild,THQ Nordic,Expansive Worlds,PS4,2017,Shooter,0.19,,,0.04,0.24
 7381,Birds of Steel,Konami Digital Entertainment,Gaijin Games,PS3,2012,Simulation,0.1,0.09,0.02,0.03,0.24
@@ -7860,7 +7860,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 7859,Bound By Flame,Focus Home Interactive,Spiders,PS4,2014,Action,0.08,0.09,,0.04,0.21
 7860,Hasbro Family Game Night 3,Electronic Arts,EA Bright Light,X360,2010,Misc,0.17,0.03,,0.02,0.21
 7861,Breakaway IV,Sears,Atari,2600,1978,Puzzle,0.2,0.01,,0.0,0.21
-7862,Ghostbusters II,Unknown,Salu Ltd.,2600,1970,Action,0.2,0.01,,0.0,0.21
+7862,Ghostbusters II,Unknown,Salu Ltd.,2600,1989,Action,0.2,0.01,,0.0,0.21
 7863,RealSports Baseball,Atari,Atari,2600,1982,Sports,0.2,0.01,,0.0,0.21
 7864,Fate/Extella: The Umbral Star,Xseed Games,Marvelous Entertainment,NS,2017,Action,0.1,0.06,0.04,0.02,0.21
 7865,Prince of Persia: Revelations,Ubisoft,"Pipeworks Software, Inc.",PSP,2005,Adventure,0.18,0.01,,0.02,0.21
@@ -7901,7 +7901,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 7900,Project Versus J,Namco Bandai Games,Unknown,PSV,2015,Misc,,0.03,0.17,0.01,0.21
 7901,Shadow of Destiny,Konami,Konami,PS2,2001,Adventure,0.09,0.07,0.03,0.02,0.21
 7902,Brunswick Pro Bowling,Crave Entertainment,Point of View,PSP,2007,Sports,0.19,,,0.02,0.21
-7903,Valkyria Chronicles III: Unrecorded Chronicles,Unknown,Sega WOW Overworks,PSP,1970,Role-Playing,,,0.21,,0.21
+7903,Valkyria Chronicles III: Unrecorded Chronicles,Unknown,Sega WOW Overworks,PSP,2011,Role-Playing,,,0.21,,0.21
 7904,Cabela's Deer Hunt: 2004 Season,Activision,FUN Labs,XB,2003,Sports,0.16,0.05,,0.01,0.21
 7905,The Sims 4: Cats & Dogs,Electronic Arts,Maxis,PC,2017,Simulation,,0.2,,0.01,0.21
 7906,Baja: Edge of Control,THQ,2XL Games,PS3,2008,Racing,0.1,0.08,,0.03,0.21
@@ -14605,7 +14605,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 14604,Monster High: New Ghoul in School,Little Orbit,Torus Games,PS3,2015,Action,,0.04,,0.01,0.04
 14605,White Album 2: Shiawase no Mukougawa,Aqua Plus,Aqua Plus,PS3,2012,Visual Novel,,,0.04,,0.04
 14606,Go Go Ackman 3,Banpresto,Aspect,SNES,1995,Platform,,,0.04,0.0,0.04
-14607,Check vs. Mate,Unknown,TopWare Interactive,PS3,1970,Misc,,0.04,,0.01,0.04
+14607,Check vs. Mate,Unknown,TopWare Interactive,PS3,2011,Misc,,0.04,,0.01,0.04
 14608,Uta no Prince-Sama: Repeat Love,Broccoli,Broccoli,PSV,2017,Adventure,,,0.04,,0.04
 14609,Minna de Wai Wai! Spelunker,Square Enix,Square Enix,NS,2017,Action,,,0.04,,0.04
 14610,Advance Guardian Heroes,Ubisoft,"Treasure Co., Ltd.",GBA,2004,Role-Playing,0.03,0.01,,0.0,0.04
@@ -17603,7 +17603,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 17602,Infinite Stratos 2: Love and Purge,5pb,Unknown,PSV,2015,Action,,,0.01,,0.01
 17603,Umihara Kawase Jun: Second Edition Kanzenban,Genterprise,Genterprise,DS,2009,Puzzle,,,0.01,,0.01
 17604,Theatre Of War,CDV Software Entertainment,Battlefront,PC,2008,Strategy,,0.01,,0.0,0.01
-17605,WRC: FIA World Rally Championship,Unknown,Milestone S.r.l,PC,1970,Racing,,0.01,,0.0,0.01
+17605,WRC: FIA World Rally Championship,Unknown,Milestone S.r.l,PC,2010,Racing,,0.01,,0.0,0.01
 17606,Destiny Links,Namco Bandai,Bec,DS,2009,Role-Playing,,,0.01,,0.01
 17607,Egg Mania: Eggstreme Madness,Kemco,HotGen Studios,XB,2002,Puzzle,0.01,0.0,,0.0,0.01
 17608,Pro Angler Moves,Unknown,"Interworks Unlimited, Inc.",PS3,2012,Sports,0.01,,,0.0,0.01
@@ -18310,7 +18310,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 18309,Eschatos,Qute,Qute Corporation,X360,2011,Shooter,,,0.01,,0.01
 18310,NHL 16,EA Sports,EA Canada,X360,2015,Sports,,0.01,,0.0,0.01
 18311,Angels and Despair: 5 Game Pack,Focus Multimedia,Focus,PC,2014,Puzzle,,0.01,,0.0,0.01
-18312,Defenders of Ardania,Paradox Interactive,Most Wanted Entertainment,PC,1970,Strategy,,0.01,,0.0,0.01
+18312,Defenders of Ardania,Paradox Interactive,Most Wanted Entertainment,PC,2011,Strategy,,0.01,,0.0,0.01
 18313,Eiyuu * Senki,5pb,Unknown,PS3,2013,Misc,,,0.01,,0.01
 18314,Handball 16,Bigben Interactive,EKO Software,PC,2015,Sports,,0.01,,0.0,0.01
 18315,Steel Horizon,Konami,Climax Group,DS,2007,Strategy,0.01,,,0.0,0.01
@@ -18495,7 +18495,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 18494,V-Rally 4,Bigben Interactive,Kylotonn,XOne,2018,Racing,0.01,,,0.0,0.01
 18495,Teenage Mutant Ninja Turtles: Out of the Shadows,Activision,Unknown,X360,2013,Misc,,0.01,,0.0,0.01
 18496,Monobeno: Pure Smile,HuneX,Dramatic Create,PSV,2014,Adventure,,,0.01,,0.01
-18497,PDC World Championship Darts 2008,Unknown,Mere Mortals,PC,1970,Sports,,0.01,,0.0,0.01
+18497,PDC World Championship Darts 2008,Unknown,Mere Mortals,PC,2008,Sports,,0.01,,0.0,0.01
 18498,The Sims 2: H&M Fashion Stuff,Electronic Arts,Maxis Software,PC,2007,Simulation,,0.01,,0.0,0.01
 18499,Hallowed Legends: Templar,Big Fish Games,Elephant Games,PC,2015,Action,,0.01,,0.0,0.01
 18500,Momotsuki: Koufuu no Misasagi-Ou,Kadokawa Shoten,Kadokawa Shoten,PS2,2009,Adventure,,,0.01,,0.01
@@ -18793,7 +18793,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 18792,Dungeon Siege II: Broken World,2K Games,Gas Powered Games,PC,2006,Role-Playing,0.01,,,0.0,0.01
 18793,Tactical Guild,Success,Ninja Studio,DS,2008,Role-Playing,,,0.01,,0.01
 18794,Kidz Sports: Ice Hockey,Bold Games,Data Design Interactive,Wii,2008,Sports,0.0,0.0,,0.0,0.01
-18795,Deep Black,505 Games,BiArt Studios,PC,1970,Shooter,,0.0,,0.0,0.01
+18795,Deep Black,505 Games,BiArt Studios,PC,2012,Shooter,,0.0,,0.0,0.01
 18796,Devil May Cry 3: Dante's Awakening Special Edition,Ubisoft,Capcom,PC,2006,Action,,0.01,,0.0,0.01
 18797,Happy Birthdays,NIS America,Arc System Works,NS,2018,Misc,0.01,,,0.0,0.01
 18798,Sekai wa Atashi de Mawatteru: Hikari to Yami no Princess,Global A Entertainment,Global A Entertainment,PSP,2009,Role-Playing,,,0.01,,0.01
@@ -18896,7 +18896,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 18895,Nari Kids Park: Ultraman R/B,Bandai Namco Games,Bandai Namco Games,NS,2018,Action,,,0.0,,0.0
 18896,Nekketsu Inou Bukatsu: Trigger Kiss,Idea Factory,Idea Factory,PSV,2014,Adventure,,,0.0,,0.0
 18897,Rampage Puzzle Attack,Midway Games,Ninai Games,GBA,2001,Puzzle,0.0,0.0,,0.0,0.0
-18898,Duke Nukem Trilogy: Critical Mass,Unknown,FrontLine Studios,PSP,N/A,Shooter,0.0,,,0.0,0.0
+18898,Duke Nukem Trilogy: Critical Mass,Deep Silver,FrontLine Studios,PSP,N/A,Shooter,0.0,,,0.0,0.0
 18899,The World of Golden Eggs: Nori Nori Uta Dekichatte Kei,AQ Interactive,AQ Interactive,DS,2009,Puzzle,,,0.0,,0.0
 18900,WSC Real 09: World Championship Snooker,Blade Interactive,Blade Interactive,Wii,2009,Sports,,0.0,,0.0,0.0
 18901,Valhalla Hills: Definitive Edition,Kalypso Media,Daedalic Entertainment,XOne,2017,Strategy,0.0,,,0.0,0.0
@@ -18948,7 +18948,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 18947,Dual Blades,Metro 3D,Metro3D,GBA,2002,Fighting,0.0,0.0,,0.0,0.0
 18948,Pia Carrot e Youkoso!! G.P. Gakuen Princess Portable,GN Software,HuneX,PSP,2009,Adventure,,,0.0,,0.0
 18949,Football Manager 2006,Sega,Sports Interactive,X360,2006,Sports,,0.0,,0.0,0.0
-18950,Garshasp: The Monster Slayer,Unknown,Dead Mage Studio,PC,2011,Action,,0.0,,0.0,0.0
+18950,Garshasp: The Monster Slayer,Digital Dragon,Dead Mage Studio,PC,2011,Action,,0.0,,0.0,0.0
 18951,Janline,Recom,Recom,X360,2008,Misc,,,0.0,,0.0
 18952,My Animal Centre,Deep Silver,Braingame,DS,2008,Simulation,,0.0,,0.0,0.0
 18953,Power Rangers Zeo Full Tilt Battle Pinball,Bandai,Kaze,PS,1996,Misc,0.0,0.0,,0.0,0.0
@@ -18993,7 +18993,7 @@ Rank,Name,Publisher,Developer,Platform,Release_date,Genre,Sales_NA,Sales_PAL,Sal
 18992,Game Tengoku: CruisinMix,Chara-ani,Chara-ani,PS4,2017,Shooter,,,0.0,,0.0
 18993,Big Bumpin',King Games,Blitz Games,X360,2006,Action,0.0,,,0.0,0.0
 18994,Chris Sawyer's Locomotion,Atari,Chris Sawyer,PC,2004,Strategy,,0.0,,0.0,0.0
-18995,The Garfield Show: Threat of the Space Lasagna,Unknown,EKO System,Wii,2010,Misc,,0.0,,0.0,0.0
+18995,The Garfield Show: Threat of the Space Lasagna,Zoo Games,EKO System,Wii,2010,Misc,,0.0,,0.0,0.0
 18996,Beat the Intro,Mindscape,Mindscape,DS,2010,Misc,,0.0,,0.0,0.0
 18997,Winning Post 7 Maximum 2008,KOEI,Koei,Wii,2008,Sports,,,0.0,,0.0
 18998,CSI: NY - The Game,Ubisoft,Legacy Interactive,PC,2008,Adventure,,0.0,,0.0,0.0
