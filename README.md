@@ -30,6 +30,8 @@ Like many industries based on artistic choice certain trends emerge that shape c
 
 My machine learning model captures some of the trends present in the data, as illustrated in the graph below. Although the R-squared value for this model is low, this model serves as a solid starting point. While there are potential improvements, the model's performance is constrained by the limitations of the data. The dataset contains only a few usable variables, which makes it challenging to capture more nuanced trends. I further discuss ways in which this model could be improved in the **Area for Improvement** section. 
 
+![](images/ml_result.png)
+
 ## Technologies
 
 + Python: Primary language used for webscrapping and data processing/analysis
