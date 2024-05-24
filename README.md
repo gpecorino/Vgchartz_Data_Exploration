@@ -6,7 +6,7 @@ This project analyzes trends in video game sales to help understand the history 
 2. Performing EDA on the data
 3. Creating a Machine Learning Model to predict sales
 
-This repository contains a Python file containg the code for web scraping and a Jupyter Notebook with all of the EDA work.
+This repository contains a Python file containg the code for web scraping and a Jupyter Notebook with all of the EDA work and Machine Learning model.
 
 ## About the Dataset
 
