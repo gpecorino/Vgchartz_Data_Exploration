@@ -1,4 +1,4 @@
-# Video Game Database EDA
+# VGChartz Database EDA
 ## Description
 
 This project dives into trends in video game sales to better understand the history of the market and help predict future trends. Using python and data science principals I will visualize the data and use our findings to develop insightful conclusions about trends in the video game market. To do this we pull data from a public database at [VGChartz.com](https://www.vgchartz.com/games/games.php?page=1&results=1000&order=TotalSales&ownership=Both&direction=DESC&showtotalsales=1&shownasales=1&showpalsales=1&showjapansales=1&showothersales=1&showpublisher=1&showdeveloper=1&showreleasedate=1&showlastupdate=0&showvgchartzscore=0&showcriticscore=1&showuserscore=1). The project will be split into 3 parts:
