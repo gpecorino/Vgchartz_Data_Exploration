@@ -46,11 +46,6 @@ Overall game sales peaked in 2008, followed by a significant decline in the subs
 + The top 10 best-selling games are all from well-known franchises, with six of them belonging to fast-paced genres like sports and shooters. This trend underscores the appeal of established brands and action-oriented gameplay in driving high sales.
   + Wii Sports was bundled with the Wii console in all regions outside of Japan, with its exceptional success largely attributed to the Wii’s widespread popularity rather than the game’s standalone appeal.
 
-
-My machine learning model uses data from 2013-2017, the last 5 years of available data. I limit it to this window to isolate recent trends and avoid being influenced by older ones. The model captures some of the trends present in the data, as illustrated in the graph below. Although the R-squared value for this model is low, this model serves as a solid starting point. While there are potential improvements, the model's performance is constrained by the limitations of the data. The dataset contains only a few usable variables, which makes it challenging to capture more nuanced trends. I further discuss ways in which this model could be improved in the **Area for Improvement** section. 
-
-![](images/ml_result.png)
-
 ### Regional Sales
 
 + North America is a dominant region for video game sales containing 48.68% of total sales.
@@ -61,13 +56,49 @@ My machine learning model uses data from 2013-2017, the last 5 years of availabl
 + North America showcases greater diversity in gaming platforms, with Xbox, PlayStation, and Nintendo all represented in the top three. The Xbox 360 leads with $609.2 million in sales, followed closely by the PS2 at $588 million and the Wii at $500.3 million.
 + In Japan, Nintendo and PlayStation platforms dominate game sales, with the Nintendo DS leading at $178.4 million, followed by PlayStation at $143.2 million. In contrast, the highest-performing Xbox platform, the Xbox 360, lags significantly behind at just $12.8 million. This disparity may be attributed to the fact that both Nintendo and Sony are Japanese companies.
 
+![](images/Vgchartz2.PNG)
 
-## Technologies
+### Genre and Platform Performance
 
-+ Python: Primary language used for webscrapping and data processing/analysis
-+ Pandas: Used for data manipulation and analysis
-+ Matplotlib: Used for data visualization
-+ BeautifulSoup: Used for reading html for webscrapping
++ Many of the top-performing genres feature fast-paced game mechanics, with sports, shooters, action, platformers, and racing dominating the market.
++ While most genres have experienced declining sales in recent years, several, such as Action-Adventure, Fighting, Racing, and Platformer games, are showing signs of growth. These are the only genres to record an increase in sales between 2016 and 2018.
++ Many of the top performing genres such as Sports, Action, Racing and Shooters perform best on Playstation and XBox platforms.
++ Certain genres, including Role-Playing, Puzzles, and Platformers, tend to perform better on Nintendo platforms. This success can be attributed to Nintendo's strong exclusive franchises in these genres, such as Pokémon for Role-Playing games and Super Mario Bros. and Donkey Kong for Platformers.
++ In PC gaming, Shooters remain a top-performing genre, but Simulation and Strategy games are also significantly more represented compared to other platforms. Simulation games account for 21.11% of sales on PC, in stark contrast to just 4.28% across all platforms, while Strategy games make up 16.93% on PC, compared to only 1.86% across all platforms.
++ For PC gaming Shooters are still a top performing genre but Simulation and Strategy games also have much higher representation compared to on other platforms. Simulation games make up 21.11% compared to 4.28% across all platforms and Strategy games make up 16.93% compared to 1.86% across all platforms.
++ Five of the top ten best-selling games are exclusive titles from Nintendo, including Wii Sports and Super Mario Bros. In contrast, the other top performers, such as Minecraft, Grand Theft Auto V, and both Call of Duty titles, are available across multiple platforms.
+
+![](images/Vgchartz4.PNG)
+
+### Publisher Performance
+
++ Nintendo is the top-performing publisher, with sales reaching $1.899 billion, and has consistently held this position as the leading publisher nearly every year.
++ Many publishers depend significantly on a few established franchises to generate the majority of their sales. Nintendo, for instance, heavily relies on iconic franchises such as Mario Bros., The Legend of Zelda, and Pokémon, while Rockstar Games focuses predominantly on the Grand Theft Auto franchise.
++ The Japanese market significantly impacts publishers such as Nintendo, Sony, Sega, and Capcom, while other publishers receive minimal contributions from Japanese sales. This disparity is likely due to the fact that these companies are based in Japan, allowing them to better align with local consumer preferences.
++ Publishers like Activision, Ubisoft, and EA excel in North America and Europe, primarily due to their focus on popular genres such as Shooting, Sports, and Racing, which dominate the gaming landscape in these regions.
+
+![](images/Vgchartz6.PNG)
+
+## Recommendations
+
+Based on the insights and findings above, the following recommendations have been provided:
++ Capitalize on the strong and consistent performance of Sports games, which account for 15.15% of all game sales and are the top-performing genre in every region except Japan. Additionally, Sports games have the advantage of releasing new iterations annually, aligning with the start of each sport's season.
++ To expand in the Japanese market, consider incorporating mechanics popular in Role-Playing games and forming strategic partnerships with Nintendo or Sony. Role-Playing games are highly successful in Japan, generating $374 million in sales, outpacing the next best-performing genre by 151%. Collaborating with Nintendo or Sony would be advantageous, as they are the top publishers in Japan, and games on their platforms consistently outperform those on any Xbox platform.
++ Invest into making games in genres that are growing in popularity. Action-Adventure and Fighting are the only genres that saw an increase in sales across the last 2 years of available data. Sales for Action-Adventure games increased by 144% from 2017 to 2018, while the Fighting genre saw an increase of 54.55%. Capitalizing on this trend now may allow us to become a strong presence in the genres before they become oversaturated with options.
++ Seek opportunities to partner with established franchises such as Call of Duty, Grand Theft Auto, Super Mario Bros., and Pokémon. These franchises consistently perform well and boast large, loyal player bases. Associating with these renowned brands can help attract customers from their dedicated fan communities.
+
+## Machine Learning Model
+
+The machine learning model uses data from 2013-2017, the last 5 years of complete available data. It is limited to this window to isolate recent trends and avoid being influenced by older ones. The model captures some of the trends present in the data, as illustrated in the graph below. Although the R-squared value for this model is low, this model serves as a solid starting point. While there are potential improvements, the model's performance is constrained by the limitations of the data. The dataset contains only a few usable variables, which makes it challenging to capture more nuanced trends. I further discuss ways in which this model could be improved in the **Area for Improvement** section. 
+
+![](images/ml_result.png)
+
+## Assumptions and Caveats:
+
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
++ It is important to note that the data used by VGChartz is based on estimates and may not always accurately reflect official sales figures.
++ The data for more recent years is incomplete, with 2017 and 2018 being the last years for which we have seemingly complete information.
++ For this analysis, we assume that the majority of a game’s sales occur in the year of its release. The data provided includes total lifetime sales but does not break down yearly sales. Consequently, if a game was released in 2005 but recorded sales in 2007, all sales would be attributed to 2005, inflating the figures for that year.
 
 ## Areas for Improvement
 
@@ -81,3 +112,10 @@ The second area for improvement is my machine learning model. Several strategies
 3. **Feature Engineering**: Creating new features from the existing data could enrich the dataset without depending on speculative values. Despite this potential, the limited number of original variables poses a challenge in generating additional meaningful features.
 
 While there are various approaches to enhance the model, careful implementation is crucial. Each method comes with its own set of risks, and improper application could inadvertently degrade the model's performance.
+
+## Technologies
+
++ Python: Primary language used for webscrapping and data processing/analysis
++ Pandas: Used for data manipulation and analysis
++ Matplotlib: Used for data visualization
++ BeautifulSoup: Used for reading html for webscrapping
