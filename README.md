@@ -36,7 +36,7 @@ The dataset pulled from [VGChartz.com](https://www.vgchartz.com/games/games.php?
 
 Overall game sales peaked in 2008, followed by a significant decline in the subsequent years. While the industry has yet to fully recover to this peak, aligning with current consumer preferences remains a key strategy for success. Fast-paced genres, such as sports, shooters, and action games, continue to attract high sales and widespread engagement. Additionally, the sustained success of major publishers like Nintendo and popular franchises such as Grand Theft Auto highlights the powerful role of brand recognition and consumer loyalty in driving consistent sales.
 
-![](Vgchartz1.PNG)
+![](images/Vgchartz1.PNG)
 
 
 
