@@ -38,13 +38,29 @@ Overall game sales peaked in 2008, followed by a significant decline in the subs
 
 ![](images/Vgchartz1.PNG)
 
+## Insights
 
+### Overall Sales
 
++ After a peak in 2008, there was a sharp decline in both the number of games released and overall sales. With the North American market accounting for 48.68% of global sales, it is likely that the 2008 U.S. recession contributed significantly to this downturn. This impact becomes even clearer when examining annual sales trends in North America alongside those in other regions.
++ The top 10 best-selling games are all from well-known franchises, with six of them belonging to fast-paced genres like sports and shooters. This trend underscores the appeal of established brands and action-oriented gameplay in driving high sales.
+  + Wii Sports was bundled with the Wii console in all regions outside of Japan, with its exceptional success largely attributed to the Wii’s widespread popularity rather than the game’s standalone appeal.
 
 
 My machine learning model uses data from 2013-2017, the last 5 years of available data. I limit it to this window to isolate recent trends and avoid being influenced by older ones. The model captures some of the trends present in the data, as illustrated in the graph below. Although the R-squared value for this model is low, this model serves as a solid starting point. While there are potential improvements, the model's performance is constrained by the limitations of the data. The dataset contains only a few usable variables, which makes it challenging to capture more nuanced trends. I further discuss ways in which this model could be improved in the **Area for Improvement** section. 
 
 ![](images/ml_result.png)
+
+### Regional Sales
+
++ North America is a dominant region for video game sales containing 48.68% of total sales.
++ Although the Japanese market represents only 14.4% of global sales, it’s notable that this figure reflects sales from a single country, whereas other regions encompass multiple countries.
++ Fast-paced genres like Sports, Action, Shooters and Racing are top performers in North America, European and Other markets.
++ In Japan, Role-Playing Games (RPGs) lead the market with $374 million in sales, significantly outperforming the next best-selling genre, Sports, by 151%. This preference is also reflected in the success of Pokémon, Japan's top-selling game, which surpasses popular global titles like Call of Duty and Grand Theft Auto V that otherwise outperform Pokémon in all other regions.
++ PlayStation platforms lead game sales across European countries, with the PS3 as the top-performing platform at $342.2 million in sales. Its nearest competitor, the Xbox 360, trails by 28% with $275.7 million in sales.
++ North America showcases greater diversity in gaming platforms, with Xbox, PlayStation, and Nintendo all represented in the top three. The Xbox 360 leads with $609.2 million in sales, followed closely by the PS2 at $588 million and the Wii at $500.3 million.
++ In Japan, Nintendo and PlayStation platforms dominate game sales, with the Nintendo DS leading at $178.4 million, followed by PlayStation at $143.2 million. In contrast, the highest-performing Xbox platform, the Xbox 360, lags significantly behind at just $12.8 million. This disparity may be attributed to the fact that both Nintendo and Sony are Japanese companies.
+
 
 ## Technologies
 
