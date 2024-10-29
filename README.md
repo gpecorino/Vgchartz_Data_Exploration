@@ -1,12 +1,18 @@
 # VGChartz Database EDA
-## Description
+## Project Background
 
-This project analyzes trends in video game sales to help understand the history of the market in order to predict future trends. Using python to create visuals of the data, I am able to use our findings to develop insightful conclusions regarding trends in the video game market. To do this we pull data from a public database at [VGChartz.com](https://www.vgchartz.com/games/games.php?page=1&results=1000&order=TotalSales&ownership=Both&direction=DESC&showtotalsales=1&shownasales=1&showpalsales=1&showjapansales=1&showothersales=1&showpublisher=1&showdeveloper=1&showreleasedate=1&showlastupdate=0&showvgchartzscore=0&showcriticscore=1&showuserscore=1). The project will be split into 3 parts:
-1. Webscraping from the VGChartz database to a csv to create ease of access to the data.
-2. Performing EDA on the data
-3. Creating a Machine Learning Model to predict sales
+This project explores historical trends in video game sales, providing insights into market dynamics to forecast future trends and guide strategic recommendations.The data used in this analysis is pulled from a public database at [VGChartz.com](https://www.vgchartz.com/games/games.php?page=1&results=1000&order=TotalSales&ownership=Both&direction=DESC&showtotalsales=1&shownasales=1&showpalsales=1&showjapansales=1&showothersales=1&showpublisher=1&showdeveloper=1&showreleasedate=1&showlastupdate=0&showvgchartzscore=0&showcriticscore=1&showuserscore=1). This is a website dedicated to tracking and archiving data related to video games and their sales data.
 
-This repository contains a Python file containg the code for web scraping and a Jupyter Notebook with all of the EDA work and Machine Learning model.
+Insights and recommendations are provided on the following key areas:
+
++ Overall Sales
++ Regional Sales
++ Genre and Platform Performance
++ Publisher Performance
+
+Interactive Tableau dashboards can be accessed [here](https://public.tableau.com/app/profile/giovanni.pecorino/viz/VGChartzvDashboards/SalesOverview?publish=yes).
+The Python file used to web scrape the data from VGChartz.com can be found [here](https://github.com/gpecorino/Vgchartz_Data_Exploration/blob/main/vgchartz_webscrape.py).
+The Jupyter Notebook that contains the exploratory analysis and machine learning model can be found [here](https://github.com/gpecorino/Vgchartz_Data_Exploration/blob/main/vgchartz_eda_ml.ipynb).
 
 ## About the Dataset
 
@@ -24,9 +30,17 @@ The dataset pulled from [VGChartz.com](https://www.vgchartz.com/games/games.php?
 11. Sales_Others - Sales from other regions not already covered
 12. Sales_Globe - Total sales from all regions
 
-## Conclusions
+## Executive Summary
 
-In my analysis certain trends emerge and illustrate how consumer preferences drive sales. Games with faster-paced mechanics often garner more attention and enjoy higher sales figures. This is evident in the market dominance of genres such as sports, shooters, action, platformer, and racing. Moreover, Nintendo stands out as a powerhouse in the industry, consistently outperforming all other publishers in sales. Nintendo's successful titles and long running franchise underscores the importance of brand recognition and consumer loyalty. Similarly, games from well-established franchises exhibit remarkable sales performance and longevity, showcasing the influence of brand identity on consumer behavior. Notably, Sony PlayStation platforms emerged as frontrunners in overall video game sales, highlighting their strong market presence and appeal among gamers compared to competitors.
+### Overview of Findings
+
+Overall game sales peaked in 2008, followed by a significant decline in the subsequent years. While the industry has yet to fully recover to this peak, aligning with current consumer preferences remains a key strategy for success. Fast-paced genres, such as sports, shooters, and action games, continue to attract high sales and widespread engagement. Additionally, the sustained success of major publishers like Nintendo and popular franchises such as Grand Theft Auto highlights the powerful role of brand recognition and consumer loyalty in driving consistent sales.
+
+![](Vgchartz1.PNG)
+
+
+
+
 
 My machine learning model uses data from 2013-2017, the last 5 years of available data. I limit it to this window to isolate recent trends and avoid being influenced by older ones. The model captures some of the trends present in the data, as illustrated in the graph below. Although the R-squared value for this model is low, this model serves as a solid starting point. While there are potential improvements, the model's performance is constrained by the limitations of the data. The dataset contains only a few usable variables, which makes it challenging to capture more nuanced trends. I further discuss ways in which this model could be improved in the **Area for Improvement** section. 
 
