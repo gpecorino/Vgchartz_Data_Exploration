@@ -42,38 +42,37 @@ Overall game sales peaked in 2008, followed by a significant decline in the subs
 
 ### Overall Sales
 
-+ After a peak in 2008, there was a sharp decline in both the number of games released and overall sales. With the North American market accounting for 48.68% of global sales, it is likely that the 2008 U.S. recession contributed significantly to this downturn. This impact becomes even clearer when examining annual sales trends in North America alongside those in other regions.
-+ The top 10 best-selling games are all from well-known franchises, with six of them belonging to fast-paced genres like sports and shooters. This trend underscores the appeal of established brands and action-oriented gameplay in driving high sales.
-  + Wii Sports was bundled with the Wii console in all regions outside of Japan, with its exceptional success largely attributed to the Wii’s widespread popularity rather than the game’s standalone appeal.
++ **After a peak in 2008, there was a sharp decline in both the number of games released and overall sales.** With the North American market accounting for 48.68% of global sales, it is likely that the 2008 U.S. recession contributed significantly to this downturn. This impact becomes even clearer when examining annual sales trends in North America alongside those in other regions.
++ **The top 10 best-selling games are all from well-known franchises, with six of them belonging to fast-paced genres like sports and shooters.** This trend underscores the appeal of established brands and action-oriented gameplay in driving high sales.
+  + *Wii Sports* was bundled with the Wii console in all regions outside of Japan, with its exceptional success largely attributed to the Wii’s widespread popularity rather than the game’s standalone appeal.
 
 ### Regional Sales
 
 + North America is a dominant region for video game sales containing 48.68% of total sales.
 + Although the Japanese market represents only 14.4% of global sales, it’s notable that this figure reflects sales from a single country, whereas other regions encompass multiple countries.
-+ Fast-paced genres like Sports, Action, Shooters and Racing are top performers in North America, European and Other markets.
-+ In Japan, Role-Playing Games (RPGs) lead the market with $374 million in sales, significantly outperforming the next best-selling genre, Sports, by 151%. This preference is also reflected in the success of Pokémon, Japan's top-selling game, which surpasses popular global titles like Call of Duty and Grand Theft Auto V that otherwise outperform Pokémon in all other regions.
-+ PlayStation platforms lead game sales across European countries, with the PS3 as the top-performing platform at $342.2 million in sales. Its nearest competitor, the Xbox 360, trails by 28% with $275.7 million in sales.
-+ North America showcases greater diversity in gaming platforms, with Xbox, PlayStation, and Nintendo all represented in the top three. The Xbox 360 leads with $609.2 million in sales, followed closely by the PS2 at $588 million and the Wii at $500.3 million.
-+ In Japan, Nintendo and PlayStation platforms dominate game sales, with the Nintendo DS leading at $178.4 million, followed by PlayStation at $143.2 million. In contrast, the highest-performing Xbox platform, the Xbox 360, lags significantly behind at just $12.8 million. This disparity may be attributed to the fact that both Nintendo and Sony are Japanese companies.
++ **Fast-paced genres like Sports, Action, Shooters and Racing are top performers** in North America, European and Other markets.
++ **In Japan, Role-Playing Games (RPGs) lead the market with $374 million in sales, significantly outperforming the next best-selling genre, Sports, by 151%.** This preference is also reflected in the success of *Pokémon*, Japan's top-selling game, which surpasses popular global titles like *Call of Duty* and *Grand Theft Auto V* that otherwise outperform *Pokémon* in all other regions.
++ PlayStation platforms lead game sales across European countries, with the PS3 as the top-performing platform at $342.2 million in sales. Its nearest competitor, the Xbox 360, **trails by 28% with $275.7 million in sales.**
++ **North America showcases greater diversity in gaming platforms**, with Xbox, PlayStation, and Nintendo all represented in the top three. The Xbox 360 leads with $609.2 million in sales, followed closely by the PS2 at $588 million and the Wii at $500.3 million.
++ **In Japan, Nintendo and PlayStation platforms dominate game sales,** with the Nintendo DS leading at $178.4 million, followed by PlayStation at $143.2 million. In contrast, the highest-performing Xbox platform, the Xbox 360, lags significantly behind at just $12.8 million. This disparity may be attributed to the fact that both Nintendo and Sony are Japanese companies.
 
 ![](images/Vgchartz2.PNG)
 
 ### Genre and Platform Performance
 
-+ Many of the top-performing genres feature fast-paced game mechanics, with sports, shooters, action, platformers, and racing dominating the market.
-+ While most genres have experienced declining sales in recent years, several, such as Action-Adventure, Fighting, Racing, and Platformer games, are showing signs of growth. These are the only genres to record an increase in sales between 2016 and 2018.
++ **Many of the top-performing genres feature fast-paced game mechanics,** with sports, shooters, action, platformers, and racing dominating the market.
++ While most genres have experienced declining sales in recent years, several, such as Action-Adventure, Fighting, Racing, and Platformer games, are showing signs of growth. **These are the only genres to record an increase in sales between 2016 and 2018.**
 + Many of the top performing genres such as Sports, Action, Racing and Shooters perform best on Playstation and XBox platforms.
-+ Certain genres, including Role-Playing, Puzzles, and Platformers, tend to perform better on Nintendo platforms. This success can be attributed to Nintendo's strong exclusive franchises in these genres, such as Pokémon for Role-Playing games and Super Mario Bros. and Donkey Kong for Platformers.
-+ In PC gaming, Shooters remain a top-performing genre, but Simulation and Strategy games are also significantly more represented compared to other platforms. Simulation games account for 21.11% of sales on PC, in stark contrast to just 4.28% across all platforms, while Strategy games make up 16.93% on PC, compared to only 1.86% across all platforms.
-+ For PC gaming Shooters are still a top performing genre but Simulation and Strategy games also have much higher representation compared to on other platforms. Simulation games make up 21.11% compared to 4.28% across all platforms and Strategy games make up 16.93% compared to 1.86% across all platforms.
-+ Five of the top ten best-selling games are exclusive titles from Nintendo, including Wii Sports and Super Mario Bros. In contrast, the other top performers, such as Minecraft, Grand Theft Auto V, and both Call of Duty titles, are available across multiple platforms.
++ **Certain genres, including Role-Playing, Puzzles, and Platformers, tend to perform better on Nintendo platforms.** This success can be attributed to Nintendo's strong exclusive franchises in these genres, such as *Pokémon* for Role-Playing games and *Super Mario Bros.* and *Donkey Kong* for Platformers.
++ In PC gaming, Shooters remain a top-performing genre, but Simulation and Strategy games are also significantly more represented compared to other platforms. **Simulation games account for 21.11% of sales on PC, in stark contrast to just 4.28% across all platforms, while Strategy games make up 16.93% on PC, compared to only 1.86% across all platforms.**
++ Five of the top ten best-selling games are exclusive titles from Nintendo, including *Wii Sports* and *Super Mario Bros*. In contrast, the other top performers, such as *Minecraft*, *Grand Theft Auto V*, and both *Call of Duty titles*, are available across multiple platforms.
 
 ![](images/Vgchartz4.PNG)
 
 ### Publisher Performance
 
-+ Nintendo is the top-performing publisher, with sales reaching $1.899 billion, and has consistently held this position as the leading publisher nearly every year.
-+ Many publishers depend significantly on a few established franchises to generate the majority of their sales. Nintendo, for instance, heavily relies on iconic franchises such as Mario Bros., The Legend of Zelda, and Pokémon, while Rockstar Games focuses predominantly on the Grand Theft Auto franchise.
++ **Nintendo is the top-performing publisher, with sales reaching $1.899 billion,** and has consistently held this position as the leading publisher nearly every year.
++ **Many publishers depend significantly on a few established franchises to generate the majority of their sales.** Nintendo, for instance, heavily relies on iconic franchises such as *Mario Bros.*, *The Legend of Zelda*, and *Pokémon*, while Rockstar Games focuses predominantly on the *Grand Theft Auto franchise*.
 + The Japanese market significantly impacts publishers such as Nintendo, Sony, Sega, and Capcom, while other publishers receive minimal contributions from Japanese sales. This disparity is likely due to the fact that these companies are based in Japan, allowing them to better align with local consumer preferences.
 + Publishers like Activision, Ubisoft, and EA excel in North America and Europe, primarily due to their focus on popular genres such as Shooting, Sports, and Racing, which dominate the gaming landscape in these regions.
 
@@ -82,10 +81,10 @@ Overall game sales peaked in 2008, followed by a significant decline in the subs
 ## Recommendations
 
 Based on the insights and findings above, the following recommendations have been provided:
-+ Capitalize on the strong and consistent performance of Sports games, which account for 15.15% of all game sales and are the top-performing genre in every region except Japan. Additionally, Sports games have the advantage of releasing new iterations annually, aligning with the start of each sport's season.
-+ To expand in the Japanese market, consider incorporating mechanics popular in Role-Playing games and forming strategic partnerships with Nintendo or Sony. Role-Playing games are highly successful in Japan, generating $374 million in sales, outpacing the next best-performing genre by 151%. Collaborating with Nintendo or Sony would be advantageous, as they are the top publishers in Japan, and games on their platforms consistently outperform those on any Xbox platform.
-+ Invest into making games in genres that are growing in popularity. Action-Adventure and Fighting are the only genres that saw an increase in sales across the last 2 years of available data. Sales for Action-Adventure games increased by 144% from 2017 to 2018, while the Fighting genre saw an increase of 54.55%. Capitalizing on this trend now may allow us to become a strong presence in the genres before they become oversaturated with options.
-+ Seek opportunities to partner with established franchises such as Call of Duty, Grand Theft Auto, Super Mario Bros., and Pokémon. These franchises consistently perform well and boast large, loyal player bases. Associating with these renowned brands can help attract customers from their dedicated fan communities.
++ **Capitalize on the strong and consistent performance of Sports games, which account for 15.15% of all game sales** and are the top-performing genre in every region except Japan. Additionally, Sports games have the advantage of releasing new iterations annually, aligning with the start of each sport's season.
++ To expand in the Japanese market, consider incorporating mechanics popular in Role-Playing games and forming strategic partnerships with Nintendo or Sony. Role-Playing games are highly successful in Japan, generating $374 million in sales, outpacing the next best-performing genre by 151%. **Collaborating with Nintendo or Sony would be advantageous, as they are the top publishers in Japan, and games on their platforms consistently outperform those on any Xbox platform.**
++ **Invest into making games in genres that are growing in popularity.** Action-Adventure and Fighting are the only genres that saw an increase in sales across the last 2 years of available data. Sales for Action-Adventure games increased by 144% from 2017 to 2018, while the Fighting genre saw an increase of 54.55%. Capitalizing on this trend now may allow us to become a strong presence in the genres before they become oversaturated with options.
++ Seek opportunities to partner with established franchises such as Call of Duty, Grand Theft Auto, Super Mario Bros., and Pokémon. These franchises consistently perform well and boast large, loyal player bases. **Associating with these renowned brands can help attract customers from their dedicated fan communities.**
 
 ## Machine Learning Model
 
