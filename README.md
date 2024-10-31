@@ -5,10 +5,10 @@ This project explores historical trends in video game sales, providing insights 
 
 Insights and recommendations are provided on the following key areas:
 
-+ Overall Sales
-+ Regional Sales
-+ Genre and Platform Performance
-+ Publisher Performance
++ **Overall Sales and Release trends:** Analyzing historical patterns in video game sales and release trends over time.
++ **Regional Comparisons:** A detailed analysis of sales across different genres and platforms by region.
++ **Genre and Platform Performance:** An evaluation of how genre sales have evolved over time and how different genres perform across various platforms.
++ **Publisher Performance:** An assessment of the most successful publishers and the types of games they produce.
 
 Interactive Tableau dashboards can be accessed [here](https://public.tableau.com/app/profile/giovanni.pecorino/viz/VGChartzvDashboards/SalesOverview?publish=yes). <br />
 The Python file used to web scrape the data from VGChartz.com can be found [here](https://github.com/gpecorino/Vgchartz_Data_Exploration/blob/main/vgchartz_webscrape.py). <br />
